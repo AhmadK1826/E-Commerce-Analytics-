@@ -27,10 +27,3 @@ Evaluates marketing channels using orders, total sales, gross profit, and averag
 
 The project uses a Fact Constellation (Galaxy) model with multiple fact tables and shared dimensions to support website activity, sales, and refund analysis.
 
-## 📸 Dashboard Preview
-
-Dashboard screenshots are included in the repository.
-
-## 📌 Project Status
-
-Three analytical dashboard pages completed.
